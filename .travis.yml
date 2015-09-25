@@ -9,3 +9,4 @@ deploy:
   on:
     repo: k158584/rakuten_enpit_example
     branch: master
+
