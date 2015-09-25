@@ -4,8 +4,8 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: IyZY/WYKAvLjzqH7RuXM5pjATYh2B7ft8qqLBSRnT03huEIbZuSKNWu+ZkVTFiZsXvlf3k3KRG0ECgzcl66Xp+d3NmNCQf/99J8nQcIVcwEngj19p6IkL5IidyPc820dJsBgLKPuNxYHo5Dshg6uxyNnUjUD/X0FlneE6Ao52P4=
+    secure: LmeqLbdIqWhDcZqRrGXhsTWnz24yGOQxlwmEr751uZ/V9sMv7tMQ7V6MCsvmRacip7vIjQ/B623j0zPjWIL8iM59veNrmw3xXwOWMSR/0gVInRjMfMeJKFZ5wFQJh3hdRkuGg1TcJ+5cAxnxBOkidIbJ40WDF4pYEWjLi1seiNg=
   app: agile-scrubland-5344
   on:
-    repo: ychubachi/rakuten_enpit_example
+    repo: k158584/rakuten_enpit_example
     branch: master
